@@ -1,0 +1,28 @@
+
+{
+    "index": {
+        "title": "ETUSIVUN OTSIKKO",
+        "theme": {
+          "breadcrumb": true,
+          "footer": true,
+          "sidebar": true,
+          "toc": true,
+          "pagination": true,
+          "typesetting": "article"
+        }
+      },
+    "SIVUSTON_OSA1": {
+    "title": "Muutettu osa1 otsikko",
+      "theme": {
+        "breadcrumb": true,
+        "footer": true,
+        "sidebar": true,
+        "toc": true,
+        "pagination": true,
+        "typesetting": "article"
+      }
+    },
+    "Sivu1": {
+        "title": "Määritelty uusi otsikko"
+      }
+  }

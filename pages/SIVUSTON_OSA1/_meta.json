@@ -1,0 +1,17 @@
+{
+    "index": {
+        "title": "SIVUSTON OSA1 OTSIKKO",
+        "theme": {
+          "breadcrumb": true,
+          "footer": true,
+          "sidebar": true,
+          "toc": true,
+          "pagination": true,
+          "typesetting": "article",
+          "layout": "full"
+        }
+    },
+    "OTSIKKO": "Sivuston osa1 tiedosto 'OTSIKKO'",
+    "sivuston_sivu": "Uusi sivuston nimi"
+
+}

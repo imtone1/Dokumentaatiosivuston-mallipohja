@@ -1,0 +1,29 @@
+{
+	"name": "projektisi-nimi-yhteen-kirjoitettuna",
+   	"version": "0.0.1",
+  	"description": "<PROJEKTISI KUVAUS>",
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start"
+	  },
+	"repository": {
+	"type": "git",
+	"url": "git+<REPOSITORIOSI-URL>.git"
+	},
+	"author": "<NIMESI>",
+	"license": "MIT",
+	"bugs": {
+	"url": "https://REPOSITORIOSI-URL/issues"
+	},
+	"homepage": "<SIVUSTOSI-URL>",
+
+	"dependencies": {
+		"next": "^14.0.2",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"nextra": "^2.13.2",
+		"nextra-theme-docs": "^2.13.2"
+	}
+	
+}
