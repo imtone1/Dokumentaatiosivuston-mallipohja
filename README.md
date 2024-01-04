@@ -2,11 +2,32 @@
 
 Suomenkielinen Nextra-mallisivustopohja. Nextralla voit luoda helposti dokumentaatiosivustoja, jossa voit keskittyä itse tekstiin sivuston koodaamisen sivasta.
 
-Tämän pohjan käyttö ei ole rajoitettu. Voit käyttää sitä vapaasti.
+Tämän pohjan käyttö ei ole rajoitettu. Voit käyttää sitä vapaasti. Tarjoan myös koodissa pieniä koodin selityksiä ja vinkkejä.
 
 ![nextratemplate](https://github.com/imtone1/Dokumentaatiosivuston-mallipohja/assets/88165529/7ffc9893-e4f8-4fd7-b78c-04f34e1e0164)
 
-Tarjoan myös koodissa pieniä koodin selityksiä ja vinkkejä.
+## Tiedostorakenne
+
+└───pages
+    │   index.mdx
+    │
+    ├───SIVUSTON_OSA1
+    │   │   _meta.json
+    │   │   otsikko1.mdx
+    │   
+    └───OTSIKKO
+        │   _meta.json
+        │   index.mdx
+        │   sivuston_sivu.mdx
+        │   Sivu1.mdx
+│
+└───public
+    │   favicon.svg
+│   .gitignore
+│   README.md
+│   next.config.js
+│   package.json
+│   theme.config.jsx
 
 ## Asennus
 
